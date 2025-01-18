@@ -2,7 +2,6 @@
 
 ## Method to Compile a C Application Project
 
----
 
 ### Preventing Console Access
 
@@ -33,6 +32,7 @@ Finally, modify the compilation command from the project root to include this ob
 ```bash
 gcc src\*.c bin\resources.o -o ...
 ```
+---
 
 ### Changing the Root Folder Icon
 
@@ -53,7 +53,7 @@ FolderType=
 
 
 
-
+------
 
 
 ## Méthode pour compiler un projet d'application en C :
